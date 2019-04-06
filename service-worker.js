@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Chiagozielam/tyc.git/precache-manifest.4dc4d95f8c374c1fb3bf24334bc140a8.js"
+  "/Chiagozielam/tyc.git/precache-manifest.918388e5ba81c8b4fdc47cc3f7e6bed4.js"
 );
 
 workbox.clientsClaim();

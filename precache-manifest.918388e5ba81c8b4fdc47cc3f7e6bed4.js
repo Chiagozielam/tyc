@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Chiagozielam/tyc.git/static/media/WH_2017.e0ea49f8.pdf"
   },
   {
-    "revision": "38e85e8239171f72c0f614ebe9e54a4b",
+    "revision": "0873a5e9db769305b8251bd60667a00b",
     "url": "/Chiagozielam/tyc.git/index.html"
   }
 ];
