@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Chiagozielam/tyc.git/precache-manifest.918388e5ba81c8b4fdc47cc3f7e6bed4.js"
+  "/Chiagozielam/tyc/precache-manifest.646a13904aa43499f1893d90b2cfb46c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Chiagozielam/tyc.git/index.html", {
+workbox.routing.registerNavigationRoute("/Chiagozielam/tyc/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
